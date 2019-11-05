@@ -1,0 +1,10 @@
+{
+  "P_DIASPOLEED_SHARE_WITH_DIASPORA": "Partager sur diaspora",
+  "P_DIASPOLEED_DIASPORA_EXCLAMATION": "diaspora it!",
+  "P_DIASPOLEED_DIASPORA": "diaspora",
+  "P_DIASPOLEED_PLUGIN_TITLE": "Plugin diaspora",
+  "P_DIASPOLEED_DIASPORA_LINK": "Lien vers votre diaspora :",
+  "P_DIASPOLEED_SAVE": "Enregistrer",
+  "P_DIASPOLEED_NB_INFO": "<strong>NB:<\/strong> Cette option affichera un bouton à côté de chaque article pour vous proposer de le stocker sur diaspora.",
+  "P_DIASPOLEED_CONNECTION_ERROR": "Vous devez être connecté pour cette action."
+}

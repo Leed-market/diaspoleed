@@ -1,0 +1,10 @@
+{
+  "P_DIASPOLEED_SHARE_WITH_DIASPORA": "Share with diaspora",
+  "P_DIASPOLEED_DIASPORA_EXCLAMATION": "diaspora it!",
+  "P_DIASPOLEED_DIASPORA": "diaspora",
+  "P_DIASPOLEED_PLUGIN_TITLE": "diaspora plugin",
+  "P_DIASPOLEED_DIASPORA_LINK": "Your diaspora link :",
+  "P_DIASPOLEED_SAVE": "Save",
+  "P_DIASPOLEED_NB_INFO": "<strong>NB:<\/strong> This option will display a button beside every news to save it on your diaspora service.",
+  "P_DIASPOLEED_CONNECTION_ERROR": "You have to be logged for this action."
+}
