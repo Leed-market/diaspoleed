@@ -4,7 +4,7 @@
 @author Simounet <http://www.simounet.net>
 @link https://github.com/Leed-market/diaspoleed
 @licence GPLv3
-@version 1.0.0
+@version 1.1.0
 @description This plugin diaspoleed add an article sharing option from Leed to <a target="_blank" href="https://diaspora.org/">diaspora (v2)</a>.
 */
 
