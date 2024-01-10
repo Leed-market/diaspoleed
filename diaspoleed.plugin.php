@@ -70,7 +70,7 @@ function diaspoleedPluginUpdateUrl($_){
     }
 }
 
-Plugin::addHook('event_post_top_options', 'diaspoleedPluginAddTo');
+Plugin::addHook('event_share_actions', 'diaspoleedPluginAddTo');
 Plugin::addHook('setting_post_link', 'diaspoleedPluginSettingsLink');
 Plugin::addHook('setting_post_section', 'diaspoleedPluginSettingsBlock');
 Plugin::addHook("action_post_case", "diaspoleedPluginUpdateUrl");
