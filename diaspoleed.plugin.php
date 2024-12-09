@@ -22,7 +22,7 @@ function diaspoleedPluginAddTo(&$event){
     echo '<a
         title="'._t('P_DIASPOLEED_SHARE_WITH_DIASPORA').'"
         rel="noopener" target="_blank"
-        href="'.$diasporaUrl.'bookmarklet?url='.$event->getLink().'&amp;title=' . $event->getTitle() . '&amp;notes=&amp;v=1&amp;noui=1&amp;jump=doclose"
+        href="'.$diasporaUrl.'bookmarklet?url='.$event->getLink().'&amp;title=' . htmlentities($event->getTitle()) . '&amp;notes=&amp;v=1&amp;noui=1&amp;jump=doclose"
     >'._t('P_DIASPOLEED_DIASPORA_EXCLAMATION').'</a>';
 }
 
